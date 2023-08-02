@@ -1,0 +1,53 @@
+# .gitignore
+
+# Ignore Python virtual environments
+env/
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook check points
+.ipynb_checkpoints/
+
+# Ignore database files (SQLite)
+*.db
+*.sqlite3
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore any .env files (these usually store sensitive information)
+*.env
+
+# Ignore all bytecode files in Python
+*.pyc
+
+# Ignore all files that are generated from distributing Python files
+dist/
+build/
+*.egg-info/
+
+# Ignore all configuration files
+*.cfg
+*.conf
+
+# Ignore all files that are generated from test Python files
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Ignore any data files or directories
+data/
+*.csv
+*.json
+
+# Ignore any lib files or directories
+libs/
+
+
+
