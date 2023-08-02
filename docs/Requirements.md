@@ -1,7 +1,6 @@
 # Requirements Document
 
-## Project Title: Cryptocurrency Trading Simulation App
-
+## Project Title: CryptoSim
 ## Project Overview:
 The project is to build a cryptocurrency trading simulation application that allows users to learn about cryptocurrency trading without investing real money. The app provides a virtual trading environment with simulated coin prices that fluctuates randomly. The application is initially targeting less than 10 users, each given a game money balance of £200 to begin trading. 
 
