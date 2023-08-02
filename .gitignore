@@ -20,7 +20,9 @@ logs/
 *.log
 
 # Ignore any .env files (these usually store sensitive information)
+env/
 *.env
+
 
 # Ignore all bytecode files in Python
 *.pyc
