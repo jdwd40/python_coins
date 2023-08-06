@@ -10,3 +10,5 @@ db = SQLAlchemy(app)
 @app.route('/yo')
 def hello_world():
     return '<h1>Hello, World!</h1>'
+
+
